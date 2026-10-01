@@ -34,8 +34,8 @@ The project includes four primary analytical views:
 |---|---|---|---|
 |[Executive Dashboard](<img width="1322" height="736" alt="Executive Dashboard img" src="https://github.com/user-attachments/assets/1e9f706f-f9df-4753-a51c-7475260d9445" />
 )|[Product Analysis](<img width="1333" height="747" alt="Product Analysis Dashboard img" src="https://github.com/user-attachments/assets/e02232ac-b1fa-46f6-8c25-3b8bb9c5bd0b" />
-)|[Customer and Salesperson](<img width="1327" height="743" alt="Customer and Salesperson Dashboard img" src="https://github.com/user-attachments/assets/720071e5-f478-4116-9dd9-dee537bfe4bb" />
-)|[Transaction Analysis](<img width="570" height="415" alt="Transaction analysis Dashboard img" src="https://github.com/user-attachments/assets/19989d9a-3690-488a-8f1d-528b8984d1bf" />
+)|[Customer and Salesperson](<img width="1327" height="743" alt="Customer and Salesperson Dashboard img" src="https://github.com/user-attachments/assets/720071e5-f478-4116-9dd9-dee537bfe4bb"/>
+)|[Transaction Analysis](<img width="570" height="415" alt="Transaction analysis Dashboard img" src="https://github.com/user-attachments/assets/19989d9a-3690-488a-8f1d-528b8984d1bf"/>
 )|
 
 ## ⚙️ How to View the Project
