@@ -1,58 +1,28 @@
-# Mahadevan-Projects
-This is a personal project created to practice and improve my skills in Using Excel and Power BI. 
-# 📊 Business Executive Analysis Dashboard
+# Mahadevan P — Data Analyst Portfolio
 
-An interactive **Business Intelligence Dashboard** designed to analyze transaction records, track key performance indicators (KPIs), and evaluate sales performance across products, customers, and sales teams. This project transforms raw transactional data into actionable executive insights.
+A responsive one-page portfolio website created for Mahadevan P.
 
-## 🚀 Key Features
+## Files
+- `index.html` — portfolio content
+- `style.css` — responsive design
+- `script.js` — mobile menu and placeholder project-link behavior
 
-*   **Executive Dashboard:** High-level tracking of Total Sales (\$4M), Total Profit (\$1M), Profit Margin (32%), and Total Orders (50).
-*   **Product Performance Insights:** Comprehensive analysis of top-selling products (led by Laptops and Smartphones) along with profit margins and quantities sold by item.
-*   **Customer & Sales Analysis:** Deep dive into top customer segments (Corporate, Small Business, Consumer) and individual salesperson performance rankings.
-*   **Geographic & Channel Breakdown:** Visual representation of regional performance (South, East, West, North) and sales distribution channels (Dealer, Online, Store).
-*   **Transaction Analysis:** Structured data view capturing granular order details, quantities, payment methods, and statuses.
+## Before publishing
+1. Replace `your-email@example.com` in `index.html` with your real email.
+2. Replace the GitHub URL with your actual GitHub profile.
+3. Replace each project `#` link with the actual project/dashboard URL.
+4. If you have a PDF resume, add it as `resume.pdf` and add a Resume button/link if desired.
+5. Update the About/Education section with your exact degree name and graduation year.
 
-## 🛠️ Tools & Technologies Used
+## Free GitHub Pages publishing
+1. Create a GitHub repository named `mahadevan23.github.io` (or another repository you prefer).
+2. Upload `index.html`, `style.css`, and `script.js`.
+3. In GitHub: Settings → Pages → Deploy from branch → `main` → `/root`.
+4. Your public site will be available at your GitHub Pages address.
 
-*   **Data Visualization / BI Tool:** Power BI
-*   **Data Processing:** Power Query / Excel Formulas
-*   **Data Source:** Transactional sales database (mock data)
+## LinkedIn
+After publishing, add the public portfolio URL to:
+LinkedIn → Profile → Edit intro → Contact info → Website
 
-## 📁 Dashboard Structure
-
-The project includes four primary analytical views:
-.  **Executive Dashboard:** Strategic view focusing on monthly sales trends, regional distributions, and categorical breakdowns.
-2.  **Product Analysis:** Operational dashboard highlighting individual product profit margins, total volumes, and category distributions.
-3.  **Customer & Salesperson Analysis:** Tactical view tracking customer segment shares, regional performance, and salesperson leaderboard metrics.
-4.  **Transaction Analysis:** Detailed data table covering order IDs, customer details, costs, and payment methods.
-
-## 💻 Visual Previews
-
-*(You can add your dashboard images inside your repository folder and link them below)*
-
-| Executive Dashboard | Product Analysis | Customer and Salesperson Analysis | Transaction Analysis |
-<div align="center">
-
-<h3>Executive Dashboard</h3>
-<img src="https://github.com/user-attachments/assets/1e9f706f-f9df-4753-a51c-7475260d9445" width="700">
-
-<h3>Product Analysis</h3>
-<img src="https://github.com/user-attachments/assets/e02232ac-b1fa-46f6-8c25-3b8bb9c5bd0b" width="700">
-
-<h3>Customer and Salesperson Analysis</h3>
-<img src="https://github.com/user-attachments/assets/720071e5-f478-4116-9dd9-dee537bfe4bb" width="700">
-
-<h3>Transaction Analysis</h3>
-<img src="https://github.com/user-attachments/assets/19989d9a-3690-488a-8f1d-528b8984d1bf" width="700">
-
-</div>
-
-## ⚙️ How to View the Project
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com
-   ```
-2. Open the file:
-   * **If built with Power BI:** Open the `.pbix` file using Power BI Desktop.
-   * **If built with Excel:** Open the `.xlsx` file using Microsoft Excel.
+You can also add it under:
+LinkedIn → Add profile section → Featured → Add a link
