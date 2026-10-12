@@ -36,7 +36,7 @@ The structural backend data repository detailing explicit daily execution record
 * **Key Visuals**: Tabular audit map tracing quantity, item classifications, baseline cost analysis, and localized revenue generation per checkout instance.
 
 <p align="center">
-  <img src="Transaction_Analysis.png" alt="Granular Operational Transaction Ledger" width="95%">
+  <img src="Transaction analysis Dashboard.img.png" alt="Transaction analysis" width="95%">
 </p>
 
 ---
