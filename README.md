@@ -4,8 +4,7 @@ An overview tailored for executive management, tracking critical sales distribut
 * **Supply Chain Metric**: Tracks fulfillment channels showing **Dealer** networks driving the largest market share (52.51%), followed by **Online** (38.42%) and physical **Store** (9.06%) distribution systems.
 
 <p align="center">
-  <img src="<img width="1312" height="737" alt="Executive Dashboard" src="https://github.com/user-attachments/assets/eac48e26-ec5d-437c-ba65-10d0f1fb6464" />
-" alt="Executive Dashboard " width="95%">
+  <img src="Executive Dashboard.png" alt=" Executive Dashboard " width="95%">
 </p>
 
 ---
