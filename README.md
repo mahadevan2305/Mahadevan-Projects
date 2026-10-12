@@ -16,7 +16,7 @@ A forensic view of product portfolios to separate high-volume anchors from high-
 * **Efficiency Matrix**: Direct comparison of product profit margins (e.g., **Tablets** leading margin efficiency at **37%**) against absolute units distributed (e.g., **Headsets** driving volume at **21 units** or **Tablets** at **13 units**).
 
 <p align="center">
-  <img src="Product_Analysis.png" alt="Product Portfolio Performance" width="95%">
+  <img src="Executive Dashboard.png" alt="Product Portfolio Performance" width="95%">
 </p>
 
 ---
