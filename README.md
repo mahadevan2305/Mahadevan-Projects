@@ -15,7 +15,7 @@ A forensic view of product portfolios to separate high-volume anchors from high-
 * **Efficiency Matrix**: Direct comparison of product profit margins (e.g., **Tablets** leading margin efficiency at **37%**) against absolute units distributed (e.g., **Headsets** driving volume at **21 units** or **Tablets** at **13 units**).
 
 <p align="center">
-  <img src="Executive Dashboard.png" alt="Product Portfolio Performance" width="95%">
+  <img src="Product Analysis.png" alt="Product Portfolio Performance" width="95%">
 </p>
 
 ---
@@ -26,7 +26,7 @@ A behavioral index rating your most valuable customer clusters against team sale
 * **Salesforce Breakdown**: Dual-axis assessment tracking absolute gross pipeline revenue against realized bottom-line profit (highlighting top performers like **Suresh** with 723K in sales and 254K in profit, followed by **Priya**).
 
 <p align="center">
-  <img src="Customer_Salesperson_Analysis.png" alt="CRM and Salesperson Leaderboards" width="95%">
+  <img src="CustomerSalesperson_Analysis.png" alt="CRM and Salesperson Leaderboards" width="95%">
 </p>
 
 ---
