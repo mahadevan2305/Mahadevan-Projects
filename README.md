@@ -26,7 +26,7 @@ A behavioral index rating your most valuable customer clusters against team sale
 * **Salesforce Breakdown**: Dual-axis assessment tracking absolute gross pipeline revenue against realized bottom-line profit (highlighting top performers like **Suresh** with 723K in sales and 254K in profit, followed by **Priya**).
 
 <p align="center">
-  <img src="CustomerSalesperson_Analysis.png" alt="CRM and Salesperson Leaderboards" width="95%">
+  <img src="Customer & Salesperson Analysis.png" alt="Customer & Salesperson Analysis" width="95%">
 </p>
 
 ---
